@@ -58,3 +58,9 @@ The relese year of content ranges from 1925 to 2021 with maximum belonging to ye
 Max content was uploaded in Jan and Dec. Netflix should increase server capacity during this month.
 Most of the content on netflix is rated TV-MA(32.6%) followed by TV-14(27.3%). Long running movies has a max rating TV-14(46.8%) and short movies has max TV-MA rating-27.1%. Long running tv shows has a max rating TV-14 & TV-MA both are 35.7% and short shows has max TV-MA rating-43.1%.
 
+Recommendations:
+
+There were only two types of content (Tvshow s or movies) which is available in the netflix which is the area that netflix can work on to improve the buisness. They can focus more on adding other types of content like streaming sports content like cricket, europian soccer, NBA or american football which can generate them a lot of viewership there by growing the buisness.
+They can also add content which was produced from the other parts of world like UAE, France, Bulgaria which was ignored before, so that they can cater its product to large number of audiences across the world to increase the viwership there by growing its business.
+They can also venture into adding other segment of unexplored video content types like adding short films, educational content etc. instead of restricting its type to only two (movies a nd TV shows).
+Netflix can also include content which was released relaively old from 1950 to 2000 as there are many movie lovers who loves to watch retro content.
