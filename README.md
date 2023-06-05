@@ -2,8 +2,6 @@ Business Problem
 
 Analyze the data and generate insights that could help Netflix in deciding which type of shows/movies to produce and how they can grow the business in different countries.
 
-Dataset: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/000/940/original/netflix.csv
-
 The dataset provided to consists of a list of all the TV shows/movies available on Netflix:
 
 Show_id: Unique ID for every Movie / Tv Show
